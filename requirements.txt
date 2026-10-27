@@ -1,0 +1,5 @@
+# Compatibility pins for the older NLP stack.
+numpy==1.23.5
+
+# Register this environment as a Jupyter kernel.
+ipykernel==6.29.5
