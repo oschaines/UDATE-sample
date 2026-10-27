@@ -1,5 +1,9 @@
-# Compatibility pins for the older NLP stack.
+# main requirements
 numpy==1.23.5
+pandas
+matplotlib
+seaborn
+math
 
 # Register this environment as a Jupyter kernel.
 ipykernel==6.29.5
